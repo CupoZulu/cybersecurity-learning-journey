@@ -41,7 +41,7 @@ To become a SOC Analyst (For now)
 - [ ] CompTIA Security+ *(planned)*
 - [ ] Blue Team Level 1 — BTL1 *(planned)*
 - [ ] CompTIA Linux+ *(planned)*
-(And maybe more)
+- [ ] (And maybe more)
 
 
 
