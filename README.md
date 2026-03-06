@@ -40,3 +40,10 @@ Google IT Support (Coursera) (Why i am going back to basics and fundamentals is 
 - [ ] Blue Team Level 1 — BTL1 *(planned)*
 - [ ] CompTIA Linux+ *(planned)*
 (And maybe more)
+
+
+
+## 🌐 Connect With Me
+- LinkedIn: -
+- TryHackMe: -
+- Email: zulu.cybersec@gmail.com
