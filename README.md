@@ -49,3 +49,9 @@ To become a SOC Analyst (For now)
 - LinkedIn: -
 - TryHackMe: -
 - Email: zulu.cybersec@gmail.com
+
+
+
+*This repository documents my full learning journey from 
+healthcare professional to cybersecurity analyst — 
+updated regularly as I grow.*
