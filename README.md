@@ -21,11 +21,13 @@ To become a SOC Analyst (For now)
 
 
 ## 📚 What I'm Currently Learning
-Google IT Support (Coursera) (Why i am going back to basics and fundamentals is that it was almost 10 years ago i finised my IT High School, i am sure i forgot a lot of stuff. I am not IT snob, for example at the time of writing this i am using CachyOS but i want to be sure that i didnt miss                                  anything.)
+- [ ] Google IT Support (Coursera) (Why i am going back to basics and fundamentals is that it was almost 10 years ago i finised my IT High School, i am sure i forgot a lot of stuff. I am not IT snob, for example at the time of writing this i am using CachyOS but i want to be sure that i didnt miss anything.
+- [ ] CompTIA A+ *(planned next)*
 
 
 
 ## 🏠 My Home Lab *(PLANING PHASE)*
+
 
 
 
